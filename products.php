@@ -2,13 +2,19 @@
 <html lang="en">
 
 <head>
-    <title>Appetizer </title>
+    <title>FATHS LED LIGHTS </title>
+
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Monoton&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Miss+Fajardose&display=swap" rel="stylesheet">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="images/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="images/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="images/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
 
     <link rel="stylesheet" href="css/open-iconic-bootstrap.min.css">
     <link rel="stylesheet" href="css/animate.css">
@@ -103,11 +109,11 @@
                         <h3>LED Bulbs</h3>
                     </div>
                     <div class="menus d-flex ftco-animate">
-                        <div class="menu-img img" style="background-image: url(images/breakfast-1.jpg);"></div>
+                        <div class="menu-img img" style="background-image: url(images/products/led.jpg);"></div>
                         <div class="text">
                             <div class="d-flex">
                                 <div class="one-half">
-                                    <h3>Grilled Beef with potatoes</h3>
+                                    <h3>LED 12W</h3>
                                 </div>
                                 <div class="one-forth">
                                     <span class="price">$29</span>
@@ -117,11 +123,11 @@
                         </div>
                     </div>
                     <div class="menus d-flex ftco-animate">
-                        <div class="menu-img img" style="background-image: url(images/breakfast-2.jpg);"></div>
+                        <div class="menu-img img" style="background-image: url(images/products/led2.jpg);"></div>
                         <div class="text">
                             <div class="d-flex">
                                 <div class="one-half">
-                                    <h3>Grilled Crab with Onion</h3>
+                                    <h3>LED 12W</h3>
                                 </div>
                                 <div class="one-forth">
                                     <span class="price">$29</span>
@@ -131,11 +137,11 @@
                         </div>
                     </div>
                     <div class="menus d-flex ftco-animate">
-                        <div class="menu-img img" style="background-image: url(images/breakfast-3.jpg);"></div>
+                        <div class="menu-img img" style="background-image: url(images/products/led3.jpg);"></div>
                         <div class="text">
                             <div class="d-flex">
                                 <div class="one-half">
-                                    <h3>Grilled Crab with Onion</h3>
+                                    <h3>LED 12W</h3>
                                 </div>
                                 <div class="one-forth">
                                     <span class="price">$29</span>
@@ -151,11 +157,11 @@
                         <h3>LED Spots</h3>
                     </div>
                     <div class="menus d-flex ftco-animate">
-                        <div class="menu-img img" style="background-image: url(images/lunch-1.jpg);"></div>
+                        <div class="menu-img img" style="background-image: url(images/products/led4.jpg);"></div>
                         <div class="text">
                             <div class="d-flex">
                                 <div class="one-half">
-                                    <h3>Grilled Beef with potatoes</h3>
+                                    <h3>LED 12W</h3>
                                 </div>
                                 <div class="one-forth">
                                     <span class="price">$29</span>
@@ -165,11 +171,11 @@
                         </div>
                     </div>
                     <div class="menus d-flex ftco-animate">
-                        <div class="menu-img img" style="background-image: url(images/lunch-2.jpg);"></div>
+                        <div class="menu-img img" style="background-image: url(images/products/led5.jpg);"></div>
                         <div class="text">
                             <div class="d-flex">
                                 <div class="one-half">
-                                    <h3>Grilled Crab with Onion</h3>
+                                    <h3>LED 12W</h3>
                                 </div>
                                 <div class="one-forth">
                                     <span class="price">$29</span>
@@ -179,11 +185,11 @@
                         </div>
                     </div>
                     <div class="menus d-flex ftco-animate">
-                        <div class="menu-img img" style="background-image: url(images/lunch-3.jpg);"></div>
+                        <div class="menu-img img" style="background-image: url(images/products/led.jpg);"></div>
                         <div class="text">
                             <div class="d-flex">
                                 <div class="one-half">
-                                    <h3>Grilled Crab with Onion</h3>
+                                    <h3>LED 12W</h3>
                                 </div>
                                 <div class="one-forth">
                                     <span class="price">$29</span>
@@ -199,11 +205,11 @@
                         <h3>5mm LED Strips</h3>
                     </div>
                     <div class="menus d-flex ftco-animate">
-                        <div class="menu-img img" style="background-image: url(images/dinner-1.jpg);"></div>
+                        <div class="menu-img img" style="background-image: url(images/products/led2.jpg);"></div>
                         <div class="text">
                             <div class="d-flex">
                                 <div class="one-half">
-                                    <h3>Grilled Beef with potatoes</h3>
+                                    <h3>LED 12W</h3>
                                 </div>
                                 <div class="one-forth">
                                     <span class="price">$29</span>
@@ -213,11 +219,11 @@
                         </div>
                     </div>
                     <div class="menus d-flex ftco-animate">
-                        <div class="menu-img img" style="background-image: url(images/dinner-2.jpg);"></div>
+                        <div class="menu-img img" style="background-image: url(images/products/led3.jpg);"></div>
                         <div class="text">
                             <div class="d-flex">
                                 <div class="one-half">
-                                    <h3>Grilled Crab with Onion</h3>
+                                    <h3>LED 12W</h3>
                                 </div>
                                 <div class="one-forth">
                                     <span class="price">$29</span>
@@ -227,11 +233,11 @@
                         </div>
                     </div>
                     <div class="menus d-flex ftco-animate">
-                        <div class="menu-img img" style="background-image: url(images/dinner-3.jpg);"></div>
+                        <div class="menu-img img" style="background-image: url(images/products/led4.jpg);"></div>
                         <div class="text">
                             <div class="d-flex">
                                 <div class="one-half">
-                                    <h3>Grilled Crab with Onion</h3>
+                                    <h3>LED 12W</h3>
                                 </div>
                                 <div class="one-forth">
                                     <span class="price">$29</span>
@@ -248,11 +254,11 @@
                         <h3>Decorative lights</h3>
                     </div>
                     <div class="menus d-flex ftco-animate">
-                        <div class="menu-img img" style="background-image: url(images/dessert-1.jpg);"></div>
+                        <div class="menu-img img" style="background-image: url(images/products/led5.jpg);"></div>
                         <div class="text">
                             <div class="d-flex">
                                 <div class="one-half">
-                                    <h3>Grilled Beef with potatoes</h3>
+                                    <h3>LED 12W</h3>
                                 </div>
                                 <div class="one-forth">
                                     <span class="price">$29</span>
@@ -266,7 +272,7 @@
                         <div class="text">
                             <div class="d-flex">
                                 <div class="one-half">
-                                    <h3>Grilled Crab with Onion</h3>
+                                    <h3>LED 12W</h3>
                                 </div>
                                 <div class="one-forth">
                                     <span class="price">$29</span>
@@ -280,7 +286,7 @@
                         <div class="text">
                             <div class="d-flex">
                                 <div class="one-half">
-                                    <h3>Grilled Crab with Onion</h3>
+                                    <h3>LED 12W</h3>
                                 </div>
                                 <div class="one-forth">
                                     <span class="price">$29</span>
@@ -300,7 +306,7 @@
                         <div class="text">
                             <div class="d-flex">
                                 <div class="one-half">
-                                    <h3>Grilled Beef with potatoes</h3>
+                                    <h3>LED 12W</h3>
                                 </div>
                                 <div class="one-forth">
                                     <span class="price">$29</span>
@@ -314,7 +320,7 @@
                         <div class="text">
                             <div class="d-flex">
                                 <div class="one-half">
-                                    <h3>Grilled Crab with Onion</h3>
+                                    <h3>LED 12W</h3>
                                 </div>
                                 <div class="one-forth">
                                     <span class="price">$29</span>
@@ -328,7 +334,7 @@
                         <div class="text">
                             <div class="d-flex">
                                 <div class="one-half">
-                                    <h3>Grilled Crab with Onion</h3>
+                                    <h3>LED 12W</h3>
                                 </div>
                                 <div class="one-forth">
                                     <span class="price">$29</span>
@@ -348,7 +354,7 @@
                         <div class="text">
                             <div class="d-flex">
                                 <div class="one-half">
-                                    <h3>Grilled Beef with potatoes</h3>
+                                    <h3>LED 12W</h3>
                                 </div>
                                 <div class="one-forth">
                                     <span class="price">$29</span>
@@ -362,7 +368,7 @@
                         <div class="text">
                             <div class="d-flex">
                                 <div class="one-half">
-                                    <h3>Grilled Crab with Onion</h3>
+                                    <h3>LED 12W</h3>
                                 </div>
                                 <div class="one-forth">
                                     <span class="price">$29</span>
@@ -376,7 +382,7 @@
                         <div class="text">
                             <div class="d-flex">
                                 <div class="one-half">
-                                    <h3>Grilled Crab with Onion</h3>
+                                    <h3>LED 12W</h3>
                                 </div>
                                 <div class="one-forth">
                                     <span class="price">$29</span>

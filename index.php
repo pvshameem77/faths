@@ -2,13 +2,18 @@
 <html lang="en">
 
 <head>
-    <title>Appetizer </title>
+    <title>FATHS LED LIGHTS </title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Monoton&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Miss+Fajardose&display=swap" rel="stylesheet">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="images/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="images/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="images/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
 
     <link rel="stylesheet" href="css/open-iconic-bootstrap.min.css">
     <link rel="stylesheet" href="css/animate.css">
@@ -100,7 +105,7 @@
 
                     <div class="col-md-12 col-sm-12 text-center ftco-animate">
                         <h1 class="mb-4 mt-5">The Best Place to Kick of Your Day</h1>
-                        <p><a href="#" class="btn btn-primary p-3 px-xl-4 py-xl-3">Order Now</a> <a href="#" class="btn btn-white btn-outline-white p-3 px-xl-4 py-xl-3">View Menu</a></p>
+                        <!-- <p><a href="#" class="btn btn-primary p-3 px-xl-4 py-xl-3">Order Now</a> <a href="#" class="btn btn-white btn-outline-white p-3 px-xl-4 py-xl-3">View Menu</a></p> -->
                     </div>
 
                 </div>
@@ -114,7 +119,7 @@
 
                     <div class="col-md-12 col-sm-12 text-center ftco-animate">
                         <h1 class="mb-4 mt-5">Creamy Hot and Ready to Serve</h1>
-                        <p><a href="#" class="btn btn-primary p-3 px-xl-4 py-xl-3">Order Now</a> <a href="#" class="btn btn-white btn-outline-white p-3 px-xl-4 py-xl-3">View Menu</a></p>
+                        <!-- <p><a href="#" class="btn btn-primary p-3 px-xl-4 py-xl-3">Order Now</a> <a href="#" class="btn btn-white btn-outline-white p-3 px-xl-4 py-xl-3">View Menu</a></p> -->
                     </div>
 
                 </div>
@@ -129,7 +134,7 @@
                 <div class="col-sm-10 wrap-about ftco-animate text-center">
                     <div class="heading-section mb-4 text-center">
                         <span class="subheading">About</span>
-                        <h2 class="mb-4">Appetizer Restaurant</h2>
+                        <h2 class="mb-4">FATHS LED LIGHTS</h2>
                     </div>
                     <p>On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word "and" and the Little Blind Text
                         should turn around and return to its own, safe country. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your
@@ -196,7 +201,7 @@
             <div class="row justify-content-center mb-5 pb-2">
                 <div class="col-md-7 text-center heading-section ftco-animate">
                     <span class="subheading">Services</span>
-                    <h2 class="mb-4">Catering Services</h2>
+                    <h2 class="mb-4">Installation Services</h2>
                 </div>
             </div>
             <div class="row">
@@ -237,7 +242,7 @@
         </div>
     </section>
 
-    <section class="ftco-section">
+    <!-- <section class="ftco-section">
         <div class="container-fluid px-4">
             <div class="row justify-content-center mb-5 pb-2">
                 <div class="col-md-7 text-center heading-section ftco-animate">
@@ -390,7 +395,7 @@
                     </div>
                 </div>
 
-                <!--  -->
+                
                 <div class="col-md-6 col-lg-4 menu-wrap">
                     <div class="heading-menu text-center ftco-animate">
                         <h3>Desserts</h3>
@@ -536,7 +541,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
 
     <!-- <section class="ftco-section ftco-no-pt ftco-no-pb">
         <div class="container-fluid px-0">
