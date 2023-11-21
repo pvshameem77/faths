@@ -36,27 +36,6 @@
 </head>
 
 <body>
-    <div class="py-1 bg-black top">
-        <div class="container">
-            <div class="row no-gutters d-flex align-items-start align-items-center px-md-0">
-                <div class="col-lg-12 d-block">
-                    <div class="row d-flex">
-                        <div class="col-md pr-4 d-flex topper align-items-center">
-                            <div class="icon mr-2 d-flex justify-content-center align-items-center"><span class="icon-phone2"></span></div>
-                            <span class="text">+ 1235 2355 98</span>
-                        </div>
-                        <div class="col-md pr-4 d-flex topper align-items-center">
-                            <div class="icon mr-2 d-flex justify-content-center align-items-center"><span class="icon-paper-plane"></span></div>
-                            <span class="text">youremail@email.com</span>
-                        </div>
-                        <div class="col-md-5 pr-4 d-flex topper align-items-center text-lg-right justify-content-end">
-                            <p class="mb-0 register-link"><span>Open hours:</span> <span>Monday - Sunday</span> <span>8:00AM - 9:00PM</span></p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
     <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
         <div class="container">
             <div class="navbar-brand">
@@ -124,33 +103,11 @@
             </div>
         </div>
     </section>
-    <section class="ftco-section ftco-no-pt ftco-no-pb contact-section">
+
+    <section class="ftco-section contact-section mb-1">
         <div class="container">
             <div class="row d-flex align-items-stretch no-gutters">
-                <div class="col-md-6 p-5 order-md-last">
-                    <h2 class="h4 mb-5 font-weight-bold">Contact Us</h2>
-                    <form action="#">
-                        <div class="form-group">
-                            <input type="text" class="form-control" placeholder="Your Name">
-                        </div>
-                        <div class="form-group">
-                            <input type="text" class="form-control" placeholder="Your Email">
-                        </div>
-                        <div class="form-group">
-                            <input type="text" class="form-control" placeholder="Subject">
-                        </div>
-                        <div class="form-group">
-                            <textarea name="" id="" cols="30" rows="7" class="form-control" placeholder="Message"></textarea>
-                        </div>
-                        <div class="form-group">
-                            <input type="submit" value="Send Message" class="btn btn-primary py-3 px-5">
-                        </div>
-                    </form>
-                </div>
-                <!-- <div class="col-md-6 d-flex align-items-stretch0">
-                    <div id="map"></div>
-                </div> -->
-                <div class="col-md-6 d-flex align-items-stretch0">
+                <div class="d-flex align-items-stretch0">
                     <div id="map1">
                         <div style=" height: 100%; width: 100%; position: absolute; top: 0px; left: 0px; background-color: rgb(229, 227, 223); ">
                             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3916.1768836016176!2d76.10546757377854!3d11.025351954555465!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba63571400f5507%3A0x1aba6f05bca183ea!2sFATHS%20LED%20LIGHTS!5e0!3m2!1sen!2sin!4v1700472957704!5m2!1sen!2sin" style=" height: 100%; width: 100%; position: absolute; top: 0px; left: 0px; background-color: rgb(229, 227, 223); " allowfullscreen=" " loading="lazy " referrerpolicy="no-referrer-when-downgrade ">
@@ -158,48 +115,42 @@
                         </div>
                     </div>
                 </div>
-                <!-- <div class="col-md-6 mt-5 pr-5 d-flex align-items-stretch ">
-                    <div id="map1 ">
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3916.483483017224!2d76.08530357377816!3d11.002305554989265!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba7cb90f54895b9%3A0x7d194a52f3e93223!2sClick%20fordern!5e0!3m2!1sen!2sin!4v1700455985186!5m2!1sen!2sin "
-                            id="map1 " style="border:0; " allowfullscreen=" " loading="lazy " referrerpolicy="no-referrer-when-downgrade "></iframe>
-                    </div>
-                </div> -->
             </div>
         </div>
-        </div>
-
-        <section class="ftco-section ftco-no-pt ftco-no-pb ">
-            <div class="container-fluid px-0 ">
-                <div class="row no-gutters ">
-                    <div class="col-md ">
-                        <a href="# " class="instagram img d-flex align-items-center justify-content-center " style="background-image: url(images/insta-1.jpg); ">
-                            <span class="ion-logo-instagram "></span>
-                        </a>
-                    </div>
-                    <div class="col-md ">
-                        <a href="# " class="instagram img d-flex align-items-center justify-content-center " style="background-image: url(images/insta-2.jpg); ">
-                            <span class="ion-logo-instagram "></span>
-                        </a>
-                    </div>
-                    <div class="col-md ">
-                        <a href="# " class="instagram img d-flex align-items-center justify-content-center " style="background-image: url(images/insta-3.jpg); ">
-                            <span class="ion-logo-instagram "></span>
-                        </a>
-                    </div>
-                    <div class="col-md ">
-                        <a href="# " class="instagram img d-flex align-items-center justify-content-center " style="background-image: url(images/insta-4.jpg); ">
-                            <span class="ion-logo-instagram "></span>
-                        </a>
-                    </div>
-                    <div class="col-md ">
-                        <a href="# " class="instagram img d-flex align-items-center justify-content-center " style="background-image: url(images/insta-5.jpg); ">
-                            <span class="ion-logo-instagram "></span>
-                        </a>
-                    </div>
+    </section>
+                                
+    <section class="ftco-section ftco-no-pt ftco-no-pb ">
+        <div class="container-fluid px-0 ">
+            <div class="row no-gutters ">
+                <div class="col-md ">
+                    <a href="# " class="instagram img d-flex align-items-center justify-content-center " style="background-image: url(images/insta-1.jpg); ">
+                        <span class="ion-logo-instagram "></span>
+                    </a>
+                </div>
+                <div class="col-md ">
+                    <a href="# " class="instagram img d-flex align-items-center justify-content-center " style="background-image: url(images/insta-2.jpg); ">
+                        <span class="ion-logo-instagram "></span>
+                    </a>
+                </div>
+                <div class="col-md ">
+                    <a href="# " class="instagram img d-flex align-items-center justify-content-center " style="background-image: url(images/insta-3.jpg); ">
+                        <span class="ion-logo-instagram "></span>
+                    </a>
+                </div>
+                <div class="col-md ">
+                    <a href="# " class="instagram img d-flex align-items-center justify-content-center " style="background-image: url(images/insta-4.jpg); ">
+                        <span class="ion-logo-instagram "></span>
+                    </a>
+                </div>
+                <div class="col-md ">
+                    <a href="# " class="instagram img d-flex align-items-center justify-content-center " style="background-image: url(images/insta-5.jpg); ">
+                        <span class="ion-logo-instagram "></span>
+                    </a>
                 </div>
             </div>
-        </section>
+        </div>
+    </section>
 
-        <?php
-        include('footer.php');
-        ?>
+    <?php
+    include('footer.php');
+    ?>
