@@ -195,7 +195,7 @@
                     <div class="media block-6 services d-block">
                         <div class="icon d-flex justify-content-center align-items-center">
                             <!-- <span class="flaticon-cake"></span> -->
-                            <img class="round-logo" src="images/web - design.jpg" alt="">
+                            <img class="round-logo" src="images/design.jpg" alt="">
 
                         </div>
                         <div class="media-body p-2 mt-3">
@@ -207,7 +207,7 @@
                 <div class="col-md-3 d-flex align-self-stretch ftco-animate text-center">
                     <div class="media block-6 services d-block">
                         <div class="icon d-flex justify-content-center align-items-center">
-                            <img class="round-logo" src="images/web - assemble.jpg" alt="">
+                            <img class="round-logo" src="images/assemble.jpg" alt="">
                         </div>
                         <div class="media-body p-2 mt-3">
                             <h3 class="heading">Assemble</h3>
@@ -219,7 +219,7 @@
                 <div class="col-md-3 d-flex align-self-stretch ftco-animate text-center">
                     <div class="media block-6 services d-block">
                         <div class="icon d-flex justify-content-center align-items-center">
-                            <img class="round-logo" src="images/web - testing.jpg" alt="">
+                            <img class="round-logo" src="images/testing.jpg" alt="">
                         </div>
                         <div class="media-body p-2 mt-3">
                             <h3 class="heading">Testing</h3>
@@ -230,7 +230,7 @@
                 <div class="col-md-3 d-flex align-self-stretch ftco-animate text-center">
                     <div class="media block-6 services d-block">
                         <div class="icon d-flex justify-content-center align-items-center">
-                            <img class="round-logo" src="images/web - packing.jpg" alt="">
+                            <img class="round-logo" src="images/packing.jpg" alt="">
                         </div>
                         <div class="media-body p-2 mt-3">
                             <h3 class="heading">Packing & Shipping</h3>
