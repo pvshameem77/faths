@@ -40,7 +40,7 @@
         <div class="container">
             <div class="navbar-brand">
                 <a href="index.php">
-                    <img class="img-responsive" src="images/faths.png" alt="logo" />
+                    <img class="img-responsive" src="images/faths100x100.png" alt="logo" />
                 </a>
             </div>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
@@ -52,16 +52,14 @@
                     <li class="nav-item"><a href="index.php" class="nav-link">Home</a></li>
                     <li class="nav-item"><a href="about.php" class="nav-link">About</a></li>
                     <li class="nav-item"><a href="products.php" class="nav-link">Products</a></li>
-                    <!-- <li class="nav-item"><a href="blog.html" class="nav-link">Blog</a></li> -->
                     <li class="nav-item active"><a href="contact.php" class="nav-link">Contact</a></li>
-                    <!-- <li class="nav-item cta"><a href="reservation.html" class="nav-link">Book a table</a></li> -->
                 </ul>
             </div>
         </div>
     </nav>
     <!-- END nav -->
 
-    <section class="hero-wrap hero-wrap-2" style="background-image: url('images/bg_3.jpg');" data-stellar-background-ratio="0.5">
+    <section class="hero-wrap hero-wrap-2" style="background-image: url('images/Home/Untitled-3.jpg');" data-stellar-background-ratio="0.5">
         <div class="overlay"></div>
         <div class="container">
             <div class="row no-gutters slider-text align-items-end justify-content-center">
@@ -80,26 +78,27 @@
                     <h2 class="h4 font-weight-bold">Contact Information</h2>
                 </div>
                 <div class="w-100"></div>
-                <div class="col-md-3 d-flex">
+
+                <div class="col-md-4 d-flex">
                     <div class="dbox">
                         <p><span>Address:</span> K K Angadi, Koottilangadi, Kuruva, Kerala 676506</p>
                     </div>
                 </div>
-                <div class="col-md-3 d-flex">
+                <div class="col-md-4 d-flex">
                     <div class="dbox">
-                        <p><span>Phone:</span> <a href="tel://1234567920">+ 1235 2355 98</a></p>
+                        <p><span>Phone:</span> <a href="tel:918606005538">+91 860 600 5538</a></p>
                     </div>
                 </div>
-                <div class="col-md-3 d-flex">
+                <div class="col-md-4 d-flex">
                     <div class="dbox">
-                        <p><span>Email:</span> <a href="mailto:info@yoursite.com">info@yoursite.com</a></p>
+                        <p><span>Email:</span> <a href="mailto:fathslights@gmail.com">fathslights@gmail.com</a></p>
                     </div>
                 </div>
-                <div class="col-md-3 d-flex">
+                <!-- <div class="col-md-3 d-flex">
                     <div class="dbox">
                         <p><span>Website</span> <a href="#">yoursite.com</a></p>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </section>
@@ -118,38 +117,8 @@
             </div>
         </div>
     </section>
-                                
-    <section class="ftco-section ftco-no-pt ftco-no-pb ">
-        <div class="container-fluid px-0 ">
-            <div class="row no-gutters ">
-                <div class="col-md ">
-                    <a href="# " class="instagram img d-flex align-items-center justify-content-center " style="background-image: url(images/insta-1.jpg); ">
-                        <span class="ion-logo-instagram "></span>
-                    </a>
-                </div>
-                <div class="col-md ">
-                    <a href="# " class="instagram img d-flex align-items-center justify-content-center " style="background-image: url(images/insta-2.jpg); ">
-                        <span class="ion-logo-instagram "></span>
-                    </a>
-                </div>
-                <div class="col-md ">
-                    <a href="# " class="instagram img d-flex align-items-center justify-content-center " style="background-image: url(images/insta-3.jpg); ">
-                        <span class="ion-logo-instagram "></span>
-                    </a>
-                </div>
-                <div class="col-md ">
-                    <a href="# " class="instagram img d-flex align-items-center justify-content-center " style="background-image: url(images/insta-4.jpg); ">
-                        <span class="ion-logo-instagram "></span>
-                    </a>
-                </div>
-                <div class="col-md ">
-                    <a href="# " class="instagram img d-flex align-items-center justify-content-center " style="background-image: url(images/insta-5.jpg); ">
-                        <span class="ion-logo-instagram "></span>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </section>
+
+
 
     <?php
     include('footer.php');
