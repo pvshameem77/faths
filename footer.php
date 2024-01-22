@@ -39,7 +39,7 @@
             <div class="col-md-4 col-lg-4">
                 <div class="ftco-footer-widget mb-4">
                     <h2 class="ftco-heading-2">Instagram</h2>
-                    <div class="thumb d-sm-flex">
+                    <div class="thumb d-flex">
                         <a href="index.php" class="thumb-menu img" style="background-image: url(images/products/junction.jpg);">
                         </a>
                         <a href="index.php" class="thumb-menu img" style="background-image: url(images/products/bulb.jpg);">
